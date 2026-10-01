@@ -77,9 +77,6 @@ Returns `{ "status": "ok" }`.
 
 For Vercel, set the project root to `frontend` and configure `VITE_API_URL`. For Render, set the root directory to `backend`, build command `npm install`, start command `npm start`, and configure `FRONTEND_URL` to the deployed Vercel origin.
 
-## Screenshots and report
-
-Add final browser captures to `screenshots/` and the project report PDF to `docs/` before submission.
 
 ## Future enhancements
 
